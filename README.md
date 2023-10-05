@@ -1,6 +1,6 @@
 # Simple React Footer
 
-Simple React Footer is an open-source React.js component. It is a ready to use footer for your React application.
+###Simple React Footer is an open-source React.js component. It is a ready to use footer for your React application.
 
 ## Preview
 
